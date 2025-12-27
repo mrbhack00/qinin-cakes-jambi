@@ -28,7 +28,7 @@ const Navbar = ({
           onClick={() => onNavigate('landing')}
         >
           <div className="flex h-12 w-12">
-            <img src="dist/QininLogoNoBg.png" alt="logos" />
+            <img src="/QininLogoNoBg.png" alt="logos" />
           </div>
           <div className="flex flex-col">
             <span className="text-sm font-semibold tracking-[0.18em] uppercase text-slate-200">
